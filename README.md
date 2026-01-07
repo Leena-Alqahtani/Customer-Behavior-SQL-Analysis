@@ -11,4 +11,8 @@ It includes queries for:
 
 The results are used to support business insights and dashboard creation in Power BI.
 
+## Tech Stack 
+- SQL Server (T-SQL)
+- Power BI
+
 - Data source: Kaggle (E-commerce customer behavior dataset) 
