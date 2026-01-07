@@ -7,6 +7,7 @@ It includes queries for:
 - Returning vs new customers
 - Top cities by sales
 - Customer metrics and ratings
+- Revenue trend over time (monthly sales trend)
 
 The results are used to support business insights and dashboard creation in Power BI.
 
