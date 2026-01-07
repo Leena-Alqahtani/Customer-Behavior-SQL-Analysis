@@ -15,4 +15,5 @@ The results are used to support business insights and dashboard creation in Powe
 - SQL Server (T-SQL)
 - Power BI
 
-- Data source: Kaggle (E-commerce customer behavior dataset) 
+## Data source:
+Kaggle (E-commerce customer behavior dataset) 
