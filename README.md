@@ -17,3 +17,7 @@ The results are used to support business insights and dashboard creation in Powe
 
 ## Data source:
 Kaggle (E-commerce customer behavior dataset) 
+
+## Dashboard Preview
+![Customer Behavior Dashboard](Dashboard Customer Behavior 2.png)
+
